@@ -5,3 +5,6 @@ Stable 1.0.0 version Android MLCardDrawer.
 ### Release 1.1.0
 Monospace support to api less than 21
 Update lowres
+
+### Release 1.1.1
+Fix logos scale on responsive mode
